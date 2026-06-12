@@ -213,10 +213,9 @@ A modern full-stack web application providing interactive, real-time data visual
 
 | Recognition | Details |
 | :--- | :--- |
-| **1st Place, Global Hackathon 2023** | Developed an AI-powered accessibility tool for visually impaired users. |
-| **Top 1% LeetCode** | Ranked among the top 1% of competitive programmers globally. |
-| **Open Source Contributor** | Recognized contributor to major open-source projects including Kubernetes and TensorFlow. |
-| **Employee of the Year 2022** | Awarded for exceptional technical leadership and project delivery at Tech Innovators Inc. |
+| **SIH College Finalist** | Recognized as a top finalist in the highly competitive Smart India Hackathon. |
+| **Star Tutor at ASU** | Awarded for exceptional teaching and mentoring at Arizona State University. |
+| **AWS Certified** | Earned multiple AWS credentials including Machine Learning Foundations and Data Engineering. |
 
 ---
 
