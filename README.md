@@ -184,15 +184,15 @@ Developed scalable data pipelines and RESTful APIs for enterprise clients.
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asheth2310&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8A2BE2&text_color=c9d1d9&icon_color=9400D3" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=asheth2310&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8A2BE2&text_color=c9d1d9&icon_color=9400D3&v=2" alt="GitHub Stats" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asheth2310&theme=tokyonight&hide_border=true&background=0d1117&ring=8A2BE2&fire=9400D3&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=8A2BE2&sideLabels=8A2BE2&dates=c9d1d9" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asheth2310&theme=tokyonight&hide_border=true&background=0d1117&ring=8A2BE2&fire=9400D3&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=8A2BE2&sideLabels=8A2BE2&dates=c9d1d9&v=2" alt="GitHub Streak" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asheth2310&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8A2BE2&text_color=c9d1d9" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asheth2310&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8A2BE2&text_color=c9d1d9&v=2" alt="Top Languages" />
 </div>
 
 ---
