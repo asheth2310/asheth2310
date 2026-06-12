@@ -173,21 +173,39 @@ A modern full-stack web application providing interactive, real-time data visual
 
 ## 💼 Experience
 
-**Software Engineer** | **Tech Innovators Inc.**
-*Jan 2021 - Present*
-Lead the development of core backend services and machine learning infrastructure.
-- Architected and deployed a highly available microservices ecosystem using Go and Kubernetes.
-- Spearheaded the integration of a custom LLM fine-tuned for internal knowledge retrieval.
-- Mentored junior engineers and established robust CI/CD pipelines.
-`System Architecture` `Go` `Kubernetes` `Machine Learning`
+**Tutor** | **Arizona State University**
+*May 2025 - May 2026* | Tempe, Arizona, United States
+- Mentor students in Data Structures, Algorithms, and Statistics, directly improving academic and interview performance.
+- Simplify complex technical concepts for diverse learners, building strong communication and teaching skills.
+- Support 10+ students weekly across CS fundamentals and programming in C, Python, and SQL.
+`C` `Python` `SQL` `Algorithms` `Data Structures`
 
-**Software Engineer** | **Data Dynamics**
-*Jun 2018 - Dec 2020*
-Developed scalable data pipelines and RESTful APIs for enterprise clients.
-- Built ETL pipelines handling terabytes of data daily using Apache Spark.
-- Optimized database queries, reducing average response time by 30%.
-- Implemented real-time monitoring and alerting systems.
-`Python` `Apache Spark` `PostgreSQL` `REST APIs`
+<br>
+
+**Software Engineer Intern** | **Kintu Designs Pvt. Ltd.**
+*Aug 2023 - Aug 2024* | Surat, Gujarat, India
+- Scraped and compiled a dataset of 10K+ e-commerce product listings using Python, cleaning raw web data into a structured format with consistent fields.
+- Built an LLM-based pipeline to automatically classify and tag products across 15+ categories, cutting categorization time by 40%.
+- Set up a logging and alerting system that tracked when the pipeline produced low-confidence outputs or hit schema issues in real time.
+`Python` `SQL` `LLM` `Database Management`
+
+<br>
+
+**Software Engineer Intern** | **UniQual iTech**
+*May 2023 - Jul 2023* | Surat, Gujarat, India
+- Automated repetitive data extraction tasks using Python and SQL that were previously done manually, fixing bugs along the way.
+- Connected REST APIs to the team's data workflows so reports could pull live data automatically, cutting manual work by 30%.
+- Wrote clear documentation for 3 internal data workflows covering how data moved through each step.
+`JavaScript` `React.js` `Python` `SQL` `REST APIs`
+
+<br>
+
+**Undergraduate Research Assistant** | **Gujarat Technological University (GTU)**
+*Jan 2021 - Jan 2022* | Gujarat, India
+- Processed 50K+ raw text records in multiple languages using Python, figuring out the right cleaning approach independently.
+- Ran experiments comparing three different classification models on the cleaned text data and analyzed the results using confusion matrices.
+- Organized all experiment results into structured logs and a written summary so the research supervisor could review the findings.
+`Python` `Artificial Intelligence (AI)` `Natural Language Processing (NLP)` `Machine Learning`
 
 ---
 
