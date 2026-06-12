@@ -158,17 +158,15 @@ Developed scalable data pipelines and RESTful APIs for enterprise clients.
 ## 📜 Certifications
 
 ### AWS
-<a href="#"><img src="https://img.shields.io/badge/AWS-Certified_Solutions_Architect_Professional-8A2BE2?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS SA Pro" /></a>
-<a href="#"><img src="https://img.shields.io/badge/AWS-Certified_Machine_Learning_Specialty-4B0082?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS ML" /></a>
+<a href="#"><img src="https://img.shields.io/badge/AWS-Machine_Learning_for_NLP-8A2BE2?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS NLP" /></a>
+<a href="#"><img src="https://img.shields.io/badge/AWS_Academy-Machine_Learning_Foundations-4B0082?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS ML Foundations" /></a>
+<a href="#"><img src="https://img.shields.io/badge/AWS_Academy-Data_Engineering-9400D3?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Data Engineering" /></a>
 
-### Oracle
-<a href="#"><img src="https://img.shields.io/badge/Oracle-Certified_Professional_Java_SE_11_Developer-9400D3?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Java" /></a>
+### OneRoadmap
+<a href="#"><img src="https://img.shields.io/badge/OneRoadmap-Data_Analyst-8A2BE2?style=for-the-badge" alt="OneRoadmap Data Analyst" /></a>
 
-### NPTEL
-<a href="#"><img src="https://img.shields.io/badge/NPTEL-Deep_Learning_Certification-8A2BE2?style=for-the-badge" alt="NPTEL DL" /></a>
-
-### Cisco
-<a href="#"><img src="https://img.shields.io/badge/Cisco-CCNA_Routing_and_Switching-4B0082?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA" /></a>
+### Udemy
+<a href="#"><img src="https://img.shields.io/badge/Udemy-Full_Stack_Web_Development-4B0082?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy Full Stack" /></a>
 
 ---
 
