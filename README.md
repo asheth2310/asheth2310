@@ -4,7 +4,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=9400D3&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;AI+%2F+ML+Specialist;Full+Stack+Developer" alt="Typing SVG" /></a>
 
   <p>
-    <img src="https://img.shields.io/badge/Degree-M.S.%20Computer%20Science-8A2BE2?style=for-the-badge" alt="Degree" />
+    <img src="https://img.shields.io/badge/Degree-ASU%20Grad-8A2BE2?style=for-the-badge" alt="Degree" />
     <img src="https://img.shields.io/badge/Location-San%20Francisco,%20CA-4B0082?style=for-the-badge" alt="Location" />
   </p>
   <p>
