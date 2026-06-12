@@ -221,9 +221,9 @@ Developed scalable data pipelines and RESTful APIs for enterprise clients.
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asheth2310/asheth2310/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asheth2310/asheth2310/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/asheth2310/asheth2310/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asheth2310/asheth2310/output/github-contribution-grid-snake-dark.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asheth2310/asheth2310/output/github-contribution-grid-snake.svg?v=1">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/asheth2310/asheth2310/output/github-contribution-grid-snake.svg?v=1">
   </picture>
 </div>
 
