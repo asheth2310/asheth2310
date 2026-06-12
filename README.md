@@ -170,17 +170,6 @@ Developed scalable data pipelines and RESTful APIs for enterprise clients.
 
 ---
 
-## 💻 Coding Profiles
-
-<div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/-LeetCode-8A2BE2?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-GeeksforGeeks-4B0082?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-HackerRank-9400D3?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-CodeChef-8A2BE2?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
