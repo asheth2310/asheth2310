@@ -206,7 +206,7 @@ Developed scalable data pipelines and RESTful APIs for enterprise clients.
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asheth2310&bg_color=0d1117&color=8A2BE2&line=9400D3&point=ffffff&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asheth2310&bg_color=0d1117&color=8A2BE2&line=9400D3&point=ffffff&hide_border=true&v=2" alt="Activity Graph" />
 </div>
 
 ---
