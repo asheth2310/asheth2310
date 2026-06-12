@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8A2BE2,4B0082,9400D3&height=200&section=header&text=Aagam%20Sheth&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=9400D3&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+%2F+ML+Specialist;Full+Stack+Developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=9400D3&center=true&vCenter=true&width=600&lines=New+Grad+SWE;AI+%2F+ML+Engineer;Full+Stack+Developer" alt="Typing SVG" /></a>
 
   <p>
     <img src="https://img.shields.io/badge/Degree-ASU%20Grad-8A2BE2?style=for-the-badge" alt="Degree" />
@@ -280,8 +280,8 @@ exploring:
   - WebAssembly (Wasm) Ecosystem
   - Zero-Knowledge Proofs
 open_to:
-  - Software Engineer / Staff Engineer roles
-  - AI/ML Architecture positions
+  - New Grad SWE roles
+  - AI/ML Engineering roles
   - Open Source collaborations
 ```
 
