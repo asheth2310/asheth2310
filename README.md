@@ -122,6 +122,53 @@ A low-code framework that utilizes Large Language Models to dynamically generate
 *Nova acts as an intermediary layer between the developer and the LLM, maintaining context and enforcing a strict design system via AST manipulation.*
 </details>
 
+<details>
+<summary><b>CloudScale: Enterprise Data Pipeline</b></summary>
+<br>
+A highly available AWS-based data pipeline designed to ingest, process, and warehouse multi-terabyte datasets for analytics.
+
+| Metric | Detail |
+| :--- | :--- |
+| **Stack** | AWS (S3, EMR, Redshift), Apache Spark, Python |
+| **Scale** | 10TB+ data processed weekly |
+| **Performance** | Automated daily batch processing under 2 hours |
+| **Impact** | Reduced data processing time by 50% via optimized EMR clusters |
+| **Repository** | [View Source](#) |
+
+*CloudScale leverages AWS managed services to build a resilient data lakehouse architecture, perfectly aligning with modern data engineering practices.*
+</details>
+
+<details>
+<summary><b>NeuroLinguist: NLP Sentiment Engine</b></summary>
+<br>
+A scalable machine learning service that performs real-time sentiment analysis and entity extraction on unstructured text data.
+
+| Metric | Detail |
+| :--- | :--- |
+| **Stack** | Python, AWS SageMaker, Hugging Face Transformers, FastAPI |
+| **Scale** | Processed 10M+ customer reviews |
+| **Performance** | < 100ms inference time per request |
+| **Impact** | Automated support ticket routing, saving 40 hours/week |
+| **Repository** | [View Source](#) |
+
+*Built and deployed using AWS SageMaker endpoints, showcasing end-to-end ML lifecycle management from fine-tuning to production inference.*
+</details>
+
+<details>
+<summary><b>InsightBoard: Full-Stack Analytics Dashboard</b></summary>
+<br>
+A modern full-stack web application providing interactive, real-time data visualizations and reporting for stakeholders.
+
+| Metric | Detail |
+| :--- | :--- |
+| **Stack** | React, Node.js, Express, PostgreSQL, Chart.js, Tailwind CSS |
+| **Features** | JWT Authentication, Real-time WebSockets, PDF Export |
+| **Impact** | Adopted by the executive team, completely replacing manual Excel reporting |
+| **Repository** | [View Source](#) |
+
+*A complete, responsive web application demonstrating end-to-end full stack capabilities, from database schema design to responsive UI components.*
+</details>
+
 ---
 
 ## 💼 Experience
