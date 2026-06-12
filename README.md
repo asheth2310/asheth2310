@@ -24,13 +24,13 @@
 
 ## 👨‍💻 About Me
 
-Experienced Software Engineer with a strong background in artificial intelligence, machine learning, and scalable enterprise architecture. Passionate about leveraging data-driven solutions to solve complex business challenges. Possesses a product-engineering mindset, constantly striving to build robust, secure, and highly available systems that drive impact. Experienced in full-stack development, transitioning seamlessly between backend infrastructure and frontend user experience.
+Recent Computer Science graduate from Arizona State University with a strong foundation in software engineering, artificial intelligence, and machine learning. Passionate about leveraging data-driven solutions to solve complex challenges. Possesses a product-engineering mindset, constantly striving to build robust, secure systems that drive impact. Experienced in full-stack development and data engineering through hands-on internships and research.
 
 - 🔭 I’m currently working on scalable distributed systems and LLM integrations.
 - 🌱 I’m currently learning advanced cloud-native architectures.
-- 💬 Ask me about System Design, Machine Learning, and Microservices.
+- 💬 Ask me about Data Structures, Machine Learning, and Web Development.
 - 📫 How to reach me: asheth2310@gmail.com
-- 🎯 Open To: Senior Engineering roles, AI/ML engineering, open-source collaborations.
+- 🎯 Open To: New Grad SWE roles, AI/ML Engineering, open-source collaborations.
 
 ---
 
