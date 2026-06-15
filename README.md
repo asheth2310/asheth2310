@@ -237,11 +237,11 @@ A modern full-stack web application providing interactive, real-time data visual
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asheth2310&theme=tokyonight&hide_border=true&background=0d1117&ring=8A2BE2&fire=9400D3&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=8A2BE2&sideLabels=8A2BE2&dates=c9d1d9&v=3" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asheth2310&theme=tokyonight&hide_border=true&background=0d1117&ring=8A2BE2&fire=9400D3&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=8A2BE2&sideLabels=8A2BE2&dates=c9d1d9&v=4" alt="GitHub Streak" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asheth2310&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8A2BE2&text_color=c9d1d9&v=3" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asheth2310&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8A2BE2&text_color=c9d1d9&v=4" alt="Top Languages" />
 </div>
 
 ---
@@ -250,7 +250,7 @@ A modern full-stack web application providing interactive, real-time data visual
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asheth2310&bg_color=0d1117&color=8A2BE2&line=9400D3&point=ffffff&hide_border=true&v=2" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asheth2310&bg_color=0d1117&color=8A2BE2&line=9400D3&point=ffffff&hide_border=true&v=3" alt="Activity Graph" />
 </div>
 
 ---
@@ -259,9 +259,9 @@ A modern full-stack web application providing interactive, real-time data visual
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asheth2310/asheth2310/output/github-contribution-grid-snake-dark.svg?v=1">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asheth2310/asheth2310/output/github-contribution-grid-snake.svg?v=1">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/asheth2310/asheth2310/output/github-contribution-grid-snake.svg?v=1">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asheth2310/asheth2310/output/github-contribution-grid-snake-dark.svg?v=2">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asheth2310/asheth2310/output/github-contribution-grid-snake.svg?v=2">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/asheth2310/asheth2310/output/github-contribution-grid-snake.svg?v=2">
   </picture>
 </div>
 
